@@ -10,6 +10,8 @@
 !*.qss
 !*.spec
 !*.ini
+!*.png
+!*.jpg
 # etc...
 
 # ...even if they are in subdirectories
